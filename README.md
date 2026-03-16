@@ -8,4 +8,3 @@
 
 ![Print do Curriculo Vitae](public/Curriculo.png)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
